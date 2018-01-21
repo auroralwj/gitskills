@@ -1,5 +1,5 @@
 # gitskills
 Creating a new branch is quick.
-This is dev branch.
+This is master branch.
 Creating a new branch is quick AND simple.
 
